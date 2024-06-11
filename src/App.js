@@ -15,7 +15,7 @@ function App() {
             <Route path="/register" element={<Register />} />
              <Route path="/login" element={<LoginUser />} />
              <Route path="/classhello" element={<Hello />} />
-          </Routes>
+          </Routes><br /> 
         </header>
       </div>
     </Router>
@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+//npm install react-router-dom

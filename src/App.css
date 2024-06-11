@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
   .Welcome {
     text-align: end;
@@ -19,7 +19,7 @@
   
 }
 
-.App-link {
+.Link {
   color: #61dafb;
 }
 
@@ -28,3 +28,16 @@
   text-decoration: line-through;
 
 }
+.hello{
+  allign-items: top;
+  color: red;
+  background-color: yellow;
+}
+button{
+  background-color: #61dafb;
+  color: white;
+  border: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+} */
